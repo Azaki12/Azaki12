@@ -1,6 +1,12 @@
 - 👋 Hi, I’m Ahmed Zaki
 - 👀 I’m interested in Software Devlopement/ Testing
 - 🌱 I’m currently learning Flutter, Java & Testing
+- Language and Tools:
+  -  Java
+  -  C++
+  -  Problem Solving Skills
+  -  Flutter
+  
 
 <!---
 NightGhost12/NightGhost12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
