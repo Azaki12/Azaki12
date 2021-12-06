@@ -1,19 +1,13 @@
 ## Hello World 🌍 I'm Ahmed Zaki! 👋 
 
-<a href="https://www.facebook.com/mohamed.almasri.5686/">
+<a href="https://www.facebook.com/Azaki202/">
   <img align="left" alt="Mohamed-7018 | Fcebook" width="24px" src="/assets/facebook.svg"/>
 </a>
-<a href="https://www.linkedin.com/in/mohamed-samir-9b0b2a203">
+<a href="https://www.linkedin.com/in/ahmed-zaki-3a7720216/">
   <img align="left" alt="Mohamed-7018 | LinkedIn" width="24px" src="/assets/linkedin.svg"/>
 </a>
-<a href="mailto:mohamedkhalilalmasri@gmail.com">
+<a href="mailto:ahmed.zaki20256@gmail.com>
   <img align="left" alt="Mohamed-7018 Esawy | Gmail" width="24px" src="https://user-images.githubusercontent.com/80456446/140469108-1a340307-b696-4f83-bd31-27f632bca393.png" />
-</a>
-<a href="https://www.hackerrank.com/mohamedkhalilal1">
- <img align="left" alt="HackerRank" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"/> 
-</a>
-<a href="https://www.instagram.com/mohamed_samir_7018/">
- <img align="left" alt="HackerRank" width="34px" src="https://user-images.githubusercontent.com/80456446/140470099-0233261b-373f-43f3-80e4-6be8ff9c9438.png"/> 
 </a>
 
 <br/>
