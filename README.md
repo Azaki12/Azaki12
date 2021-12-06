@@ -52,84 +52,23 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="24px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Google_Apps_Script.png"></code>
 <code><img height="24px" src="https://img1.pnghut.com/17/9/6/NXj2z95E2B/logo-mysql-mobile-app-development-sqlite-android-software.jpg"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-<code><img height="24px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9w2hD0G4S57Mtr2NWvkUpRFIIhtVgDQkn7UgJ8QHjUdmzQ4DyeCJCCmkM9QZXXJyskdk&usqp=CAU"></code>
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="24px" src="https://logos-download.com/wp-content/uploads/2019/01/Stack_Overflow_Logo.png"></code>
 
 
 
-
-
-<br/>
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Mohamed-7018/github-readme-stats)*
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-7018&theme=jolly)&nbsp;&nbsp;
-</h1>
-<br>
-
-<!-- <br/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-7018&layout=compact&theme=algolia"/><br/>
-
-<br/><br/><br/><br/>
-<br/> <br/> -->
-
 ## COURSES AND CERTIFICATIONS [Programming]
 - Flutter with Firebase&Stripe Build shop app from scratch <br/>
 -	Flutter & Dart [The Complete Guide] - [Online Course] <br/>
 -	Flutter & Firebase: Build a complete App for IOS & Android – Code with Andrea <br/>
--	Flutter with Firebase&Stripe Build shop app from scratch<br/>
--	Computer-Delivered Academic IELTS Exam – British Council<br/>
--	Participating in google hash code online qualifications<br/>
--	Organizing pixels 21 virtual Hash code hub<br/>
--	Python – University of Michigan<br/>
-
-## COURSES AND CERTIFICATIONS [Electrical Power]-[Mechanical]
-- Egyptian Universities Training Satellite Project with EgSA-Egyptian Space Agency
-- Distribution course with Electrical Engineering Experts<br/>
-- Solar Energy Course with ICG<br/>
-- Installing 280KW Solar park with Ebtikar Factor <br/>
-- Substation Protection, Training Network Center<br>
-- Classic control, Training Network Center <br/>
-- Safe operation of substation, Training Network Center<br/>
-- Components of substation, Training Network Center<br/>
-- Mechanical design at the level of associate (CSWA)
-
-## Work Experience
-- MOBILE DEVELOPER, KHEIR, BARAKA AND NEW WOMAN FOUNDATION (08/2021 – Present)[Mobile Development using Flutter framework]
-- Freelancer - Upwork  (06/2021 – Present) [Mobile Development using Flutter framework]<br/>
-
-## Volunteering 
-- ADVISOR – PIXELS EGYPT ORG. (2021 - PRESENT)
-- PROJECTS & CONTESTS HEAD – PIXELS EGYPT ORG.(2020-2021)
-- FLUTTER HEAD – IEEE BUSB. (2020-2021)
-- ACADEMIC INSTRUCTOR - PIXELS EGYPT ORG.(2019 - PRESENT)
-
-## Complete Flutter Apps
-o IEEE BUSB App <br/>
-o HR App <br/>
-o Code Hand Book App <br/>
-o Students Attendance App<br/>
-o Smart Home App<br/>
-o Solar Calculations App<br/>
-o Pixels App<br/>
 
 
-Hint : Some apps are in my github and Most of the projects which are mentioned here are not open source, I can show it to you in the interview if you want. 
-You can also find more projects in my github and it is not mentioned here because it's not published as a complete app
+
+
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
