@@ -38,16 +38,14 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
 <br>
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> *currently* **sleeping** 😴 or *working* on my **laptop** 👩‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Flutter mobile apps development, Front End Development, UI** and **Backend Development, Flutter**💪.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Flutter mobile apps development, Front End Development, UI** and Flutter**💪.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Flutter projects** 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👩‍💻.
--  📚 I’m currently learning database (web backend) with mysql and django framework
 <br>
 
 
 ## Profile
--	Student in  faculty of engineering, Helwan university. I study Electrical engineering in Helwan university, electrical Machines & Power department. I have got an "Excellent" accumulative three years grade.<br />
--	Projects & Contests head in pixels Egypt, with 2+ years of experience in the embedded systems and mechanical design track.<br />
+-	Student in  faculty of engineering, Helwan university. I study Computer engineering in Helwan university, Software Engineering, Database, Testing ...etc. I have got an "Excellent" accumulative three years grade.<br /><br />
 -	Flutter Head in IEEE BUSB, with 2+ years of experience in mobile development with flutter.<br />
 -	Solar energy engineer with 3+ years of experience in installing solar Power parks.<br />
 -	Academic instructor in different tracks like Arduino, Solidworks, Solar energy & Flutter, With 2+ years of experience as an academic instructor.<br />
