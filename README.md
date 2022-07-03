@@ -30,35 +30,23 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
 </p>
 
 
-<!-- <br />
-<br /> -->
-<br>
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+                                                                                                                           
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Azaki12&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Azaki12&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Azaki12&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+                                                                                                                           
+                                                                                                                           
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Azaki12&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> *currently* **Learning new technologies** 📖 or *working* on my **laptop** 👩‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> *currently* started to **Learn** 📖 *Game Dev* 🕹️ with *unity* and *unreal*
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Flutter mobile apps development, Flutter desktop apps development Front End Development, UI** and Flutter**💪.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Flutter projects** 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👩‍💻.
-<br>
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-## Profile
--	Student in  faculty of engineering, Helwan university. I study Computer engineering in Helwan university, Software Engineering, Database, Testing ...etc. I have got an "Excellent" accumulative three years grade.<br />
--	Academic instructor in different tracks like Java, Problem Solving With 1+ years of experience as an academic instructor.<br />
-<!-- I am a Juinor Flutter Developer & Juinor Java Developer <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/> -->
-
-**Languages and Tools:**
-
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="24px" src="https://img1.pnghut.com/17/9/6/NXj2z95E2B/logo-mysql-mobile-app-development-sqlite-android-software.jpg"></code>
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="24px" src="https://logos-download.com/wp-content/uploads/2019/01/Stack_Overflow_Logo.png"></code>
+---
+[![](https://visitcount.itsvg.in/api?id=Azaki12&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 
